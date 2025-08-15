@@ -86,6 +86,6 @@ WawsAn_omgfunctionappsentity
 
 # Rules
 - Always ensure language support policy guidelines are followed: #fetch:https://learn.microsoft.com/en-us/azure/azure-functions/language-support-policy?pivots=programming-language-javascript
-- Try to give at least a 12-month advance notice to users before the retirement date so they have ample time to prepare. For language version retirements, such as Node.js 20, try at least a 6-month advance notice.
+- Give advance notice to users before the retirement date so they have ample time to prepare.
 ---
 This specification is a living document. Please update as new requirements or best practices emerge.
