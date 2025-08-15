@@ -76,9 +76,7 @@ Follow the **Doc Update Policy**:
 
 ## Language Support Policy
 
-All retirements follow the [Azure Functions Language Support Policy](https://learn.microsoft.com/en-us/azure/azure-functions/language-support-policy?pivots=programming-language-javascript):
-- **12-month advance notice** for general feature retirements
-- **6-month advance notice** for language version retirements
+All retirements follow the [Azure Functions Language Support Policy](https://learn.microsoft.com/en-us/azure/azure-functions/language-support-policy?pivots=programming-language-javascript)
 
 ## Contributing
 
